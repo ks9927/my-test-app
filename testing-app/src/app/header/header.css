@@ -3,3 +3,9 @@ header {
     background-color: rgb(105, 136, 222);
     padding: 10px;
 }
+
+ul {
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+}
